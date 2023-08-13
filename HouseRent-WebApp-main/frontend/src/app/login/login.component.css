@@ -1,0 +1,24 @@
+
+        /* Define the background image */
+       
+        .bg-img {
+            /* The image used */
+            background-image:url("https://www.investopedia.com/thmb/L4LcLrG6p2rFEbdMst82AyI36Tg=/4256x2832/filters:no_upscale():max_bytes(150000):strip_icc()/for-rent-sign-in-front-of-new-house-149060607-1ddf9bfcf61141d08d0f5003277e902c.jpg");
+          
+           
+          
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+          }
+          .bg-img1{
+            background-color:whitesmoke;
+          }
+       .contact{
+        text-shadow:
+          1px 1px 1px red,
+          2px 2px 1px red;
+       }
+       

@@ -1,0 +1,24 @@
+
+        /* Define the background image */
+       
+        .bg-img {
+            /* The image used */
+            background-image: url("https://is1-3.housingcdn.com/01c16c28/13eb33b3df8e88d46ac365325f9b47b8/v0/fs/2_bhk_independent_house-for-sale-diwancheruvu-Rajahmundry-others.jpg");
+          
+           
+          
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+          }
+          .bg-img1{
+            background-color:burlywood;
+          }
+       .contact{
+        text-shadow:
+          1px 1px 1px red,
+          2px 2px 1px red;
+       }
+       
